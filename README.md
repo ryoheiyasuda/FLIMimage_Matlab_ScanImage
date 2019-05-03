@@ -1,7 +1,8 @@
 # FLIMimage_Matlab_ScanImage
 This is a FLIM sofware for Matlab based on ScanImage.
+Should run on Matlab 2014 or earlier. 
 
-* The software has been used in the Yasuda lab, but the lab switched to C# based software: 
+* The software has been used in the Yasuda lab, but the lab has switched to C# based software: 
 https://github.com/ryoheiyasuda/FLIMage_public
 
 * Developed in the Yasuda lab (Max Planck Florida Institute), 
@@ -11,7 +12,9 @@ Karen Zito's lab (UC Davis).
 * To use this software, download ScanImage 3.8.1 from Vidrio Technologies 
 https://vidriotechnologies.com/download-scanimage/
 
-* Then apply patch like: 
+* This software is distributed "as is" and we will not take any responsibility. The patch was tested in our computer and it worked. 
+
+* You can apply patch like (in unix environment): 
 
   >> cd SCANIMAGE_r3.8.1
 
