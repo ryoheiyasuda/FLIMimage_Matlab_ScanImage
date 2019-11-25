@@ -14,7 +14,7 @@ https://vidriotechnologies.com/download-scanimage/
 
 * This software is distributed "as is" and we will not take any responsibility. The patch was tested in our computer and it worked. 
 
-* You can apply patch like in unix-like shell (like Mingw for Windows http://mingw-w64.org/doku.php): 
+* You can apply patch in unix-like shell (like Mingw for Windows http://mingw-w64.org/doku.php): 
 
   >> cd SCANIMAGE_r3.8.1
 
