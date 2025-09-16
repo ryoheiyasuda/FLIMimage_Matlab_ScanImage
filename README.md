@@ -30,6 +30,8 @@ https://vidriotechnologies.com/download-scanimage/
 
 * Most recent FLIM DLL needs to be in the spc folder.
 
+* The code is in the public domain (CC0). 
+
 * References
   
 Harward et al. (2016) Autocrine BDNF-TrkB signalling within a single dendritic spine. Nature 538:99–103. DOI: 
