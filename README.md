@@ -19,3 +19,12 @@ https://vidriotechnologies.com/download-scanimage/
   >> cd SCANIMAGE_r3.8.1
 
   >> patch -p1 -i <PATH>\flimage_patch.patch
+
+* To run the software, after openining scanimage, type:
+
+  >> spc_drawInit
+
+* Citation
+  
+Wang et al. (2025) Rab10 inactivation promotes AMPAR trafficking and spine enlargement during long-term potentiation. eLife. https://doi.org/10.7554/eLife.103879.3
+   
